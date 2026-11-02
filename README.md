@@ -1,3 +1,15 @@
+<div align="center">
+
+# 👋 Olá, eu sou o Luan!
+
+### 💻 Desenvolvedor Full-Stack em formação
+
+**Transformando conhecimento em soluções reais.**
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Desenvolvedor+Full-Stack;React+%7C+Node.js+%7C+Express;Aprendizado+e+evolucao+continua)
+
+</div>
+
 # 👨‍💻 Sobre mim
 
 ### 🚀 Desenvolvedor Full-Stack | Tecnologia, inovação e evolução contínua
@@ -19,52 +31,6 @@ Acredito que um bom desenvolvedor não é definido apenas pelas linguagens que d
 **🎯 Meu objetivo:** consolidar minha carreira como desenvolvedor Full-Stack, participar de projetos inovadores e contribuir para a criação de tecnologias que gerem resultados reais.
 
 **💡 Minha filosofia:** aprender constantemente, desenvolver com propósito e transformar conhecimento em soluções.
-
-
-
-<div align="center">
-
-# 👋 Olá, eu sou o Luan!
-
-### 💻 Desenvolvedor Full-Stack em formação
-
-**Transformando conhecimento em soluções reais.**
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Desenvolvedor+Full-Stack;React+%7C+Node.js+%7C+Express;Aprendizado+e+evolucao+continua)
-
-</div>
-
----
-
-## 👨‍💻 Sobre mim
-
-Sou desenvolvedor Full-Stack em formação e estudante de
-**Análise e Desenvolvimento de Sistemas (ADS)**.
-
-Minha jornada na tecnologia é impulsionada pela busca
-constante de conhecimento e pelo desafio de transformar
-ideias em aplicações modernas, funcionais e eficientes.
-
-No Front-End, desenvolvo interfaces responsivas com
-**HTML5, CSS3, JavaScript, React e Vite**.
-
-No Back-End, trabalho com **Node.js e Express.js**,
-utilizando **MongoDB e PostgreSQL** para gerenciamento
-e persistência de dados.
-
-Também utilizo **npm e Yarn** para gerenciamento
-de dependências e organização dos projetos.
-
-Atualmente, amplio meus conhecimentos em **Java,
-TypeScript e C**, além de estudar inglês.
-
-Tenho interesse em desenvolvimento de sistemas,
-automação, integração de serviços e inteligência
-artificial.
-
-Meu objetivo é evoluir como desenvolvedor Full-Stack,
-participar de projetos desafiadores e construir
-soluções que gerem resultados reais.
 
 ---
 
@@ -108,13 +74,23 @@ soluções que gerem resultados reais.
 
 ## 📊 Estatísticas do GitHub
 
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LcLu4n&show_icons=true&theme=tokyonight&hide_border=true)
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=LcLu4n&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"
+    alt="Estatísticas do GitHub"
+    height="170"
+  />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LcLu4n&layout=compact&theme=tokyonight&hide_border=true)
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=LcLu4n&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
+    alt="Linguagens mais utilizadas"
+    height="170"
+  />
 
 </div>
+
 
 ---
 
